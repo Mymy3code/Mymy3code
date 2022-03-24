@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Mymy3code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mymy3code/Mymy3code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm interested in developing applications in C++
+- 🌱 I'm currently learning c++
+---------------------
+And yes, I'm only 11!
+---------------------
